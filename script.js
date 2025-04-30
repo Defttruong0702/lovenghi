@@ -25,18 +25,25 @@ const CONFIG = {
         duration: '4:47'
     },
     {
-        title: 'Em là người yêu của anh',
-        artist: 'MIN',
-        file: 'emlanguoiyeucuaanh.mp3',
-        cover: 'images/emmoilanguoiyeucuaanh.jpg',
-        duration: '4:10'
-    },
-    {
         title: 'Hanee',
-        artist: 'Trần Hoàng Nhật',
+        artist: 'TRẦN NHẬT HOÀNG',
         file: 'Hanee.mp3',
         cover: 'images/hanee.jpg',
         duration: '2:24'   
+    },
+    {
+        title: 'Lễ Đường',
+        artist: 'KAI ĐINH',
+        file: 'Lễ Đường.mp3',
+        cover: 'images/ly.jpg',
+        duration: '4:10'  
+    },
+    {
+        title: 'Dancing In The Dark',
+        artist: 'SOOBIN',
+        file: 'Dancing In The Dark.mp3',
+        cover: 'images/cute.jpg',
+        duration: '4:39'  
     },    
 
 
